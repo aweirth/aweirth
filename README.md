@@ -16,10 +16,14 @@ I am a current graduate student and aspiring data analyst/scientist; data scienc
 
 ## More About Me
 
-- 🏈 I played four years of NCAA college golf at Willamette Univeristy and was a team captain where I recieved All-Conference honors and was an academic All-American. My time on the team taught me the invaluable skills of leading a team, while also showing me the rewarding experience of being part of a close-knit team that encouraged and built eachother up.
+- ⛳ I played four years of NCAA college golf at Willamette Univeristy and was a team captain where I recieved All-Conference honors and was an academic All-American. My time on the team taught me the invaluable skills of leading a team, while also showing me the rewarding experience of being part of a close-knit team that encouraged and built eachother up.
+
 - **ΣΧ** Also an alumni of the Sigma Chi Fraternity Delta Zeta Chapter at Willamette University. I served as Vice President, and Recruitment Chairman. In these roles, I honed essential leadership skills by uniting and motivating our members towards common goals. Leading large-scale fundraising campaigns and managing recruitment processes taught me team coordination and effective communication, ensuring success in our fraternity endeavors.
+
 - 📚 In addition to data science, I also hold a Bachelor of Science in Environmental Science. This background has given me a passion and interest in understanding Earth's systems as the outdoors have always been an important part of my life.
+  
 - 💬 I love connecting with new people to learn from their experiences. Feel free to reach out to me on LinkedIn!
+  
 - 🎯 I am actively job searching and I am very excited to start my career!
 
 Thanks for stopping by my profile!
