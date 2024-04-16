@@ -2,7 +2,7 @@
 
 I am a current graduate student and aspiring data analyst/scientist; data science excites me to me to help people and organizations make informed decisions and see meaningful growth as I have seen myself firsthand in my education, athletic career, and professional work experience. I am passionate about data engineering, visualization, and machine learning. I will be graduating in August 24' with my Master's in Data Science from Willamette University, also having completed my B.S Data Science 23' and B.S. Enviornmental Science 23' from Willamette University. My educational training has produced a variety of projects I hope you **explore in my pinned repositories!**
 
-## Technical Skills and Proficiencies uaafio
+## Technical Skills and Proficiencies
 
 **Programming Languages:** R (Tidyverse), Python (Pandas, NumPy, Scikit-learn), SQL (postgreSQL)
 
